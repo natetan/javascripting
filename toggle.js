@@ -1,13 +1,13 @@
 
 // This is how you hide something in html [toggle on and off]
-var terms = document.getElementById("terms");
-terms.addEventListener("click", showContent);
+var item = document.getElementById("item");
+item.addEventListener("click", showContent);
 
 function showContent() {
-	var terms = document.getElementById("conditions");
-	if(terms.className === "conditions bg-info hide") {
-		terms.className = "conditions bg-info";
+	var item = document.getElementById("target-element");
+	if(item.className == "target-element more-class-names hide") {
+		item.className = "target-element more-class-names";
 	} else {
-		terms.className = "conditions bg-info hide";
+		item.className = "target-element more-class-names hide";
 	}
 }
