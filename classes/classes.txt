@@ -1,1 +1,2 @@
 1:SnD:ACR 6.8-Focus-RDS:.44 Magnum-Tac Knife:Perks-Extreme Conditioning Pro-Quickdraw Pro-Dead Silence Pro:Specialist-Assassin-Stalker-Sleight of Hand
+2:Aeroswifts:Striker-Range-Extended Mags:Five Seven-Akimbo:Perks-Scavenger Pro-Assassin Pro-SitRep Pro:Support-UAV-Ballistic Vest
